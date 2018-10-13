@@ -1,0 +1,12 @@
+body {
+
+}
+
+.logo {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #1b284b;
+  font-size: 6em;
+  width: 50%;
+  margin: 3.2em auto 0.5em auto;
+  text-align: center;
+}
